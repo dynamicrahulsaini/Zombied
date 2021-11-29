@@ -1,0 +1,5 @@
+Room 5:
+Infront of you is an empty wall
+To your left is also an empty wall
+Back of you is an empty wall
+To your right is a dead zombie

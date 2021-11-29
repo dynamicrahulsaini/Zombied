@@ -1,0 +1,5 @@
+Room 2:
+Door to next room infront
+Door to Room 1 on the left
+Empty wall backward
+Empty wall on the right

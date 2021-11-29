@@ -1,0 +1,6 @@
+Room 3:
+There are three doors infront of you. 
+Behind two of them there are ZOMBIE but one of them is your way out...
+Choose wisely!
+On your right is the door to Room 2
+*All other motions are blocked*

@@ -1,0 +1,5 @@
+Room 5:
+Infront of you is a dead zombie
+Left to you is a reachable corner
+Back of you is the door to Room 1
+To you right is an empty wall

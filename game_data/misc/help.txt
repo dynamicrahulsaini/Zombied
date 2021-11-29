@@ -1,0 +1,9 @@
+Controls: 
+'q' = Bag
+'e' = Pick/Drop
+'_' = Exit
+'w' = Forward
+'s' = Backward
+'a' = Left 
+'d' = Right
+'h' = Help

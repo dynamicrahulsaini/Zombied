@@ -1,0 +1,4 @@
+Room 3:
+To your right is the door to Room 2
+Infront of you is the door to next room
+*All other motions are blocked*

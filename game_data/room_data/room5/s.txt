@@ -1,0 +1,5 @@
+Room 5:
+There is a Zombie infront of you!
+There is another corner on the left
+Empty wall on the back
+The door to Room 1 on right

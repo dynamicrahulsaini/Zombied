@@ -1,0 +1,5 @@
+Room 3:
+On Left there is something
+Back of you is the door to room 2
+To your right there an empty wall
+*Forward motion is blocked*

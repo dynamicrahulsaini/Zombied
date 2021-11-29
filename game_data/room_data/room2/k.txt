@@ -1,0 +1,5 @@
+Room 2:
+Sofa is just infront of you
+Table is left to you
+Door to Room 1 backwards
+Door to next room on your right

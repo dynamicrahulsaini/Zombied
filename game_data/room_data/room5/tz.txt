@@ -1,0 +1,5 @@
+Room 5:
+Infront of you is a another reachable corner
+Left to you is the empty wall
+Back of you is the empty wall
+Right to you is the door to Room 1
